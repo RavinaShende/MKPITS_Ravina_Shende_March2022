@@ -1,0 +1,38 @@
+<html>
+<head>
+<script>
+function msg()
+{
+console.log();
+var r=document.getElementById("r1");
+var num,result;
+num=parseInt(document.f1.n1.value);
+var result=1;
+r.innerText="";
+for(i=1;i<=10;i++)
+{
+result=num*i;
+r.innerText+=num+"*"+i+"="+result;
+r.innerHTML+="<br>";
+}
+}
+</script>
+</head>
+<body>
+<h1 align=center>MKPITS SOLUTIONS</h1>
+<hr>
+<h5 align=center>Number Table</h5>
+<center>
+<form name="f1" style="width:50%">
+<fieldset>
+<legend><b>Calculation</b></legend>
+Enter number : <input type=text name="n1"/>
+<br><br>
+<input type=button value="Result" onclick="msg()"/>
+<br><br>
+<span id="r1" name="res"></span>
+</fieldset>
+</form>
+</center>
+</body>
+</html>
