@@ -1,0 +1,29 @@
+<html>
+	<head>
+		<script>
+		function changestyle()
+		{
+		document.getElementById("p1").style.color="red";
+		document.getElementById("d1").style.backgroundColor="green";
+		document.getElementById("d1").style.width="50%";
+		document.getElementById("d1").style.height="50%";
+		document.getElementById("d1").style.background="url('pic2.jpg')";
+		}
+		function changeorstyle()
+		{
+		document.getElementById("d1").style.backgroundColor="gray";
+		document.getElementById("d1").style.width="30%";
+		document.getElementById("d1").style.height="30%";
+		document.getElementById("d1").style.background="url('pic4.jpg')";
+		}
+		</script>
+	</head>
+	<body>
+	<div onmouseover="changestyle()" onmouseout="changeorstyle()" id="d1" style="background-image:url('pic3.jpg');;border:1px solid red; padding:30px;">
+	MKPITS SOLUTIONS
+	</div>
+	<p id="p1"> WELCOME TO MKPITS SOLUTIONS</p>
+	<br><br>
+	<input type="button" value="OK" onclick="changestyle()"/>
+	</body>
+</html>
