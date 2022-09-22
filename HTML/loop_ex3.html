@@ -1,0 +1,33 @@
+<html>
+<head>
+<script>
+function msg()
+{
+var num, fact=1;
+num=parseInt(document.f1.n1.value);
+for(i=num;i>0;i--)
+{
+fact=fact*i;
+}
+document.getElementById("r1").innerHTML=fact;
+}
+</script>
+</head>
+<body>
+<h1 align=center>MKPITS SOLUTIONS</h1>
+<hr>
+<h5 align=center>Factorial program</h5>
+<center>
+<form name="f1" style="width:50%">
+<fieldset>
+<legend><b>Calculation</b></legend>
+Enter number : <input type=text name="n1"/>
+<br><br>
+<input type=button value="Result" onclick="msg();"/>
+<br><br>
+Result : <span id="r1" name="res"></span>
+</fieldset>
+</form>
+</center>
+</body>
+</html>
