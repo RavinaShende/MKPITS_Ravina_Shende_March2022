@@ -1,0 +1,33 @@
+<html>
+<head>
+<script>
+function msg()
+{
+var num1, result;
+num1=parseFloat(document.f1.n1.value);
+if(num1 % 2==0)
+{
+document.getElementById("r1").innerHTML="number is even";
+}else
+{
+document.getElementById("r1").innerHTML="number is odd";
+}
+}
+</script></head>
+<body>
+<h1 align=center>MKPITS SOLUTIONS</h1>
+<hr>
+<center>
+<form name="f1" style="width:50%">
+<fieldset>
+<legend><b>Calculation</b></legend>
+Enter number <input type =text name="n1"/>
+<br><br>
+<input type=button value="Result" onclick="msg();"/>
+<br><br>
+Result : <span id="r1" name="res"></span>
+</fieldset>
+</form>
+</center>
+</body>
+</html>
