@@ -1,34 +1,22 @@
-<html>
-<style>
-td { padding:10px; }
-</style>
-	<h1 align=center > mkpits solutions </h1>
-	<hr>
-	<h3 align=center > Registration Form </h3>
-	<form>
-		<fieldset>
-			<legend>Enter Details </legend>
-			<table >
-			<tr>
-				<td>User Name </td>
-				<td> <input type=text  />
-			</tr>
-			<tr>
-				<td>Password </td>
-				<td> <input type=password  />
-			</tr>
-			<tr>
-				<td>Address </td>
-				<td> <textarea rows=3 cols=20 > </textarea> </td>	
-			</tr>
-			<tr>
-				<td>dob </td>
-				<td> <input type=date  />
-			</tr>
-			<tr>
-				<td> </td>
-				<td> <input type=button value="register"  />
-			</tr>
-		</fieldset>
-	</form>
-</html>
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" size=10 name="fname"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" size="50" maxlength=10 ><br>
+  gender :<br>
+  <input type="radio" id="male" name="gender" value="male">
+  <label for="male">Male</label>
+    <input type="radio" id="female" name="gender" value="female">
+  <label for="female">FeMale</label>
+      <input type="radio" id="other" name="gender" value="other">
+  <label for="other">other</label><br>
+  
+  course :<br>
+  <input type="radio" id="java" name="course" value="java">
+  <label for="java">Java</label>
+    <input type="radio" id="oracle" name="course" value="oracle">
+  <label for="oracle">Oracle</label><br>
+  
+
+
+</form>
