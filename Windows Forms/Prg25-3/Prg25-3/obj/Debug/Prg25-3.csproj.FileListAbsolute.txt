@@ -1,0 +1,11 @@
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg25-3\Prg25-3\bin\Debug\Prg25-3.exe.config
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg25-3\Prg25-3\bin\Debug\Prg25-3.exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg25-3\Prg25-3\bin\Debug\Prg25-3.pdb
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg25-3\Prg25-3\obj\Debug\Prg25-3.csproj.AssemblyReference.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg25-3\Prg25-3\obj\Debug\Prg25-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg25-3\Prg25-3\obj\Debug\Prg25_3.Form1.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg25-3\Prg25-3\obj\Debug\Prg25_3.Properties.Resources.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg25-3\Prg25-3\obj\Debug\Prg25-3.csproj.GenerateResource.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg25-3\Prg25-3\obj\Debug\Prg25-3.csproj.CoreCompileInputs.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg25-3\Prg25-3\obj\Debug\Prg25-3.exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg25-3\Prg25-3\obj\Debug\Prg25-3.pdb
