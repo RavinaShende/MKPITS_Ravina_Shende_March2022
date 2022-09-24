@@ -1,0 +1,11 @@
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-2(2d array)\Prg23-2(2d array)\bin\Debug\Prg23-2(2d array).exe.config
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-2(2d array)\Prg23-2(2d array)\bin\Debug\Prg23-2(2d array).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-2(2d array)\Prg23-2(2d array)\bin\Debug\Prg23-2(2d array).pdb
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-2(2d array)\Prg23-2(2d array)\obj\Debug\Prg23-2(2d array).csproj.AssemblyReference.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-2(2d array)\Prg23-2(2d array)\obj\Debug\Prg23-2(2d array).csproj.SuggestedBindingRedirects.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-2(2d array)\Prg23-2(2d array)\obj\Debug\Prg23_2_2d_array_.Form1.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-2(2d array)\Prg23-2(2d array)\obj\Debug\Prg23_2_2d_array_.Properties.Resources.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-2(2d array)\Prg23-2(2d array)\obj\Debug\Prg23-2(2d array).csproj.GenerateResource.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-2(2d array)\Prg23-2(2d array)\obj\Debug\Prg23-2(2d array).csproj.CoreCompileInputs.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-2(2d array)\Prg23-2(2d array)\obj\Debug\Prg23-2(2d array).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-2(2d array)\Prg23-2(2d array)\obj\Debug\Prg23-2(2d array).pdb

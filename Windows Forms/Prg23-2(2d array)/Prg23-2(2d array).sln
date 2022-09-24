@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prg23-2(2d array)", "Prg23-2(2d array)\Prg23-2(2d array).csproj", "{E83E5DC5-5960-48B8-A89A-6456E754983B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E83E5DC5-5960-48B8-A89A-6456E754983B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E83E5DC5-5960-48B8-A89A-6456E754983B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E83E5DC5-5960-48B8-A89A-6456E754983B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E83E5DC5-5960-48B8-A89A-6456E754983B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {521F0A83-8DB6-4389-A426-60320E6E4B89}
+	EndGlobalSection
+EndGlobal
