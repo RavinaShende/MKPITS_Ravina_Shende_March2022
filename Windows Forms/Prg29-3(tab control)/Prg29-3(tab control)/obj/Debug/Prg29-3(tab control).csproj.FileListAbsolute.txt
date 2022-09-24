@@ -1,0 +1,12 @@
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-3(tab control)\Prg29-3(tab control)\bin\Debug\Prg29-3(tab control).exe.config
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-3(tab control)\Prg29-3(tab control)\bin\Debug\Prg29-3(tab control).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-3(tab control)\Prg29-3(tab control)\bin\Debug\Prg29-3(tab control).pdb
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-3(tab control)\Prg29-3(tab control)\obj\Debug\Prg29-3(tab control).csproj.AssemblyReference.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-3(tab control)\Prg29-3(tab control)\obj\Debug\Prg29-3(tab control).csproj.SuggestedBindingRedirects.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-3(tab control)\Prg29-3(tab control)\obj\Debug\Prg29_3_tab_control_.Form1.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-3(tab control)\Prg29-3(tab control)\obj\Debug\Prg29_3_tab_control_.Properties.Resources.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-3(tab control)\Prg29-3(tab control)\obj\Debug\Prg29-3(tab control).csproj.GenerateResource.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-3(tab control)\Prg29-3(tab control)\obj\Debug\Prg29-3(tab control).csproj.CoreCompileInputs.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-3(tab control)\Prg29-3(tab control)\obj\Debug\Prg29-3(tab control).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-3(tab control)\Prg29-3(tab control)\obj\Debug\Prg29-3(tab control).pdb
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-3(tab control)\Prg29-3(tab control)\obj\Debug\Prg29_3_tab_control_.Form2.resources
