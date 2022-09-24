@@ -1,0 +1,11 @@
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg23-7(calculator)\Prg23-7(calculator)\bin\Debug\Prg23-7(calculator).exe.config
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg23-7(calculator)\Prg23-7(calculator)\bin\Debug\Prg23-7(calculator).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg23-7(calculator)\Prg23-7(calculator)\bin\Debug\Prg23-7(calculator).pdb
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg23-7(calculator)\Prg23-7(calculator)\obj\Debug\Prg23-7(calculator).csproj.AssemblyReference.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg23-7(calculator)\Prg23-7(calculator)\obj\Debug\Prg23-7(calculator).csproj.SuggestedBindingRedirects.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg23-7(calculator)\Prg23-7(calculator)\obj\Debug\Prg23_7_calculator_.Form1.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg23-7(calculator)\Prg23-7(calculator)\obj\Debug\Prg23_7_calculator_.Properties.Resources.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg23-7(calculator)\Prg23-7(calculator)\obj\Debug\Prg23-7(calculator).csproj.GenerateResource.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg23-7(calculator)\Prg23-7(calculator)\obj\Debug\Prg23-7(calculator).csproj.CoreCompileInputs.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg23-7(calculator)\Prg23-7(calculator)\obj\Debug\Prg23-7(calculator).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg23-7(calculator)\Prg23-7(calculator)\obj\Debug\Prg23-7(calculator).pdb
