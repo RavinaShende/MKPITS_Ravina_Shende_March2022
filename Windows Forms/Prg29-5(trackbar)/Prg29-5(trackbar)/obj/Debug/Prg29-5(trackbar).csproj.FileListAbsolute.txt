@@ -1,0 +1,11 @@
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-5(trackbar)\Prg29-5(trackbar)\bin\Debug\Prg29-5(trackbar).exe.config
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-5(trackbar)\Prg29-5(trackbar)\bin\Debug\Prg29-5(trackbar).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-5(trackbar)\Prg29-5(trackbar)\bin\Debug\Prg29-5(trackbar).pdb
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-5(trackbar)\Prg29-5(trackbar)\obj\Debug\Prg29-5(trackbar).csproj.AssemblyReference.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-5(trackbar)\Prg29-5(trackbar)\obj\Debug\Prg29-5(trackbar).csproj.SuggestedBindingRedirects.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-5(trackbar)\Prg29-5(trackbar)\obj\Debug\Prg29_5_trackbar_.Form1.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-5(trackbar)\Prg29-5(trackbar)\obj\Debug\Prg29_5_trackbar_.Properties.Resources.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-5(trackbar)\Prg29-5(trackbar)\obj\Debug\Prg29-5(trackbar).csproj.GenerateResource.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-5(trackbar)\Prg29-5(trackbar)\obj\Debug\Prg29-5(trackbar).csproj.CoreCompileInputs.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-5(trackbar)\Prg29-5(trackbar)\obj\Debug\Prg29-5(trackbar).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-5(trackbar)\Prg29-5(trackbar)\obj\Debug\Prg29-5(trackbar).pdb
