@@ -1,0 +1,11 @@
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-8(tooltip)\Prg29-8(tooltip)\bin\Debug\Prg29-8(tooltip).exe.config
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-8(tooltip)\Prg29-8(tooltip)\bin\Debug\Prg29-8(tooltip).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-8(tooltip)\Prg29-8(tooltip)\bin\Debug\Prg29-8(tooltip).pdb
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-8(tooltip)\Prg29-8(tooltip)\obj\Debug\Prg29-8(tooltip).csproj.AssemblyReference.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-8(tooltip)\Prg29-8(tooltip)\obj\Debug\Prg29-8(tooltip).csproj.SuggestedBindingRedirects.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-8(tooltip)\Prg29-8(tooltip)\obj\Debug\Prg29_8_tooltip_.Form1.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-8(tooltip)\Prg29-8(tooltip)\obj\Debug\Prg29_8_tooltip_.Properties.Resources.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-8(tooltip)\Prg29-8(tooltip)\obj\Debug\Prg29-8(tooltip).csproj.GenerateResource.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-8(tooltip)\Prg29-8(tooltip)\obj\Debug\Prg29-8(tooltip).csproj.CoreCompileInputs.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-8(tooltip)\Prg29-8(tooltip)\obj\Debug\Prg29-8(tooltip).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-8(tooltip)\Prg29-8(tooltip)\obj\Debug\Prg29-8(tooltip).pdb
