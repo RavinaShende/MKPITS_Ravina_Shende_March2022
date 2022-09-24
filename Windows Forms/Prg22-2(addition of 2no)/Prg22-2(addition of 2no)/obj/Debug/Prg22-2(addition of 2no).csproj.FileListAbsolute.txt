@@ -1,0 +1,11 @@
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-2(addition of 2no)\Prg22-2(addition of 2no)\bin\Debug\Prg22-2(addition of 2no).exe.config
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-2(addition of 2no)\Prg22-2(addition of 2no)\bin\Debug\Prg22-2(addition of 2no).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-2(addition of 2no)\Prg22-2(addition of 2no)\bin\Debug\Prg22-2(addition of 2no).pdb
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-2(addition of 2no)\Prg22-2(addition of 2no)\obj\Debug\Prg22-2(addition of 2no).csproj.AssemblyReference.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-2(addition of 2no)\Prg22-2(addition of 2no)\obj\Debug\Prg22-2(addition of 2no).csproj.SuggestedBindingRedirects.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-2(addition of 2no)\Prg22-2(addition of 2no)\obj\Debug\Prg22_2_addition_of_2no_.Form1.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-2(addition of 2no)\Prg22-2(addition of 2no)\obj\Debug\Prg22_2_addition_of_2no_.Properties.Resources.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-2(addition of 2no)\Prg22-2(addition of 2no)\obj\Debug\Prg22-2(addition of 2no).csproj.GenerateResource.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-2(addition of 2no)\Prg22-2(addition of 2no)\obj\Debug\Prg22-2(addition of 2no).csproj.CoreCompileInputs.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-2(addition of 2no)\Prg22-2(addition of 2no)\obj\Debug\Prg22-2(addition of 2no).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-2(addition of 2no)\Prg22-2(addition of 2no)\obj\Debug\Prg22-2(addition of 2no).pdb
