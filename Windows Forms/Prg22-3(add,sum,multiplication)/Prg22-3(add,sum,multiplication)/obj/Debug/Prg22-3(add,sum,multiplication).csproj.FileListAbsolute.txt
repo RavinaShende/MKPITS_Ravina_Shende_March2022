@@ -1,0 +1,11 @@
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-3(add,sum,multiplication)\Prg22-3(add,sum,multiplication)\bin\Debug\Prg22-3(add,sum,multiplication).exe.config
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-3(add,sum,multiplication)\Prg22-3(add,sum,multiplication)\bin\Debug\Prg22-3(add,sum,multiplication).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-3(add,sum,multiplication)\Prg22-3(add,sum,multiplication)\bin\Debug\Prg22-3(add,sum,multiplication).pdb
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-3(add,sum,multiplication)\Prg22-3(add,sum,multiplication)\obj\Debug\Prg22-3(add,sum,multiplication).csproj.AssemblyReference.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-3(add,sum,multiplication)\Prg22-3(add,sum,multiplication)\obj\Debug\Prg22-3(add,sum,multiplication).csproj.SuggestedBindingRedirects.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-3(add,sum,multiplication)\Prg22-3(add,sum,multiplication)\obj\Debug\Prg22_3_add_sum_multiplication_.Form1.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-3(add,sum,multiplication)\Prg22-3(add,sum,multiplication)\obj\Debug\Prg22_3_add_sum_multiplication_.Properties.Resources.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-3(add,sum,multiplication)\Prg22-3(add,sum,multiplication)\obj\Debug\Prg22-3(add,sum,multiplication).csproj.GenerateResource.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-3(add,sum,multiplication)\Prg22-3(add,sum,multiplication)\obj\Debug\Prg22-3(add,sum,multiplication).csproj.CoreCompileInputs.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-3(add,sum,multiplication)\Prg22-3(add,sum,multiplication)\obj\Debug\Prg22-3(add,sum,multiplication).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-22aug\Prg22-3(add,sum,multiplication)\Prg22-3(add,sum,multiplication)\obj\Debug\Prg22-3(add,sum,multiplication).pdb
