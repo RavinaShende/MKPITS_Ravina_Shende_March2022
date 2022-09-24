@@ -1,0 +1,11 @@
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-4(tooltip control)\Prg29-4(tooltip control)\bin\Debug\Prg29-4(tooltip control).exe.config
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-4(tooltip control)\Prg29-4(tooltip control)\bin\Debug\Prg29-4(tooltip control).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-4(tooltip control)\Prg29-4(tooltip control)\bin\Debug\Prg29-4(tooltip control).pdb
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-4(tooltip control)\Prg29-4(tooltip control)\obj\Debug\Prg29-4(tooltip control).csproj.AssemblyReference.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-4(tooltip control)\Prg29-4(tooltip control)\obj\Debug\Prg29-4(tooltip control).csproj.SuggestedBindingRedirects.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-4(tooltip control)\Prg29-4(tooltip control)\obj\Debug\Prg29_4_tooltip_control_.Form1.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-4(tooltip control)\Prg29-4(tooltip control)\obj\Debug\Prg29_4_tooltip_control_.Properties.Resources.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-4(tooltip control)\Prg29-4(tooltip control)\obj\Debug\Prg29-4(tooltip control).csproj.GenerateResource.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-4(tooltip control)\Prg29-4(tooltip control)\obj\Debug\Prg29-4(tooltip control).csproj.CoreCompileInputs.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-4(tooltip control)\Prg29-4(tooltip control)\obj\Debug\Prg29-4(tooltip control).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-4(tooltip control)\Prg29-4(tooltip control)\obj\Debug\Prg29-4(tooltip control).pdb
