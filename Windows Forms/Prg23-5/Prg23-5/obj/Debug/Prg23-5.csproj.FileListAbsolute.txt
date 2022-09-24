@@ -1,0 +1,11 @@
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-5\Prg23-5\bin\Debug\Prg23-5.exe.config
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-5\Prg23-5\bin\Debug\Prg23-5.exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-5\Prg23-5\bin\Debug\Prg23-5.pdb
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-5\Prg23-5\obj\Debug\Prg23-5.csproj.AssemblyReference.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-5\Prg23-5\obj\Debug\Prg23-5.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-5\Prg23-5\obj\Debug\Prg23_5.Form1.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-5\Prg23-5\obj\Debug\Prg23_5.Properties.Resources.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-5\Prg23-5\obj\Debug\Prg23-5.csproj.GenerateResource.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-5\Prg23-5\obj\Debug\Prg23-5.csproj.CoreCompileInputs.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-5\Prg23-5\obj\Debug\Prg23-5.exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-5\Prg23-5\obj\Debug\Prg23-5.pdb
