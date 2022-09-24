@@ -1,0 +1,11 @@
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-6(web browser)\Prg29-6(web browser)\bin\Debug\Prg29-6(web browser).exe.config
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-6(web browser)\Prg29-6(web browser)\bin\Debug\Prg29-6(web browser).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-6(web browser)\Prg29-6(web browser)\bin\Debug\Prg29-6(web browser).pdb
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-6(web browser)\Prg29-6(web browser)\obj\Debug\Prg29-6(web browser).csproj.AssemblyReference.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-6(web browser)\Prg29-6(web browser)\obj\Debug\Prg29-6(web browser).csproj.SuggestedBindingRedirects.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-6(web browser)\Prg29-6(web browser)\obj\Debug\Prg29_6_web_browser_.Form1.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-6(web browser)\Prg29-6(web browser)\obj\Debug\Prg29_6_web_browser_.Properties.Resources.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-6(web browser)\Prg29-6(web browser)\obj\Debug\Prg29-6(web browser).csproj.GenerateResource.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-6(web browser)\Prg29-6(web browser)\obj\Debug\Prg29-6(web browser).csproj.CoreCompileInputs.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-6(web browser)\Prg29-6(web browser)\obj\Debug\Prg29-6(web browser).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-25aug\Prg29-6(web browser)\Prg29-6(web browser)\obj\Debug\Prg29-6(web browser).pdb
