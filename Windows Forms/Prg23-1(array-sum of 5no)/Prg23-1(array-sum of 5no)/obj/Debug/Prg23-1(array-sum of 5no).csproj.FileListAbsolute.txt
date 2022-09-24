@@ -1,0 +1,11 @@
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-1(array-sum of 5no)\Prg23-1(array-sum of 5no)\bin\Debug\Prg23-1(array-sum of 5no).exe.config
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-1(array-sum of 5no)\Prg23-1(array-sum of 5no)\bin\Debug\Prg23-1(array-sum of 5no).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-1(array-sum of 5no)\Prg23-1(array-sum of 5no)\bin\Debug\Prg23-1(array-sum of 5no).pdb
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-1(array-sum of 5no)\Prg23-1(array-sum of 5no)\obj\Debug\Prg23-1(array-sum of 5no).csproj.AssemblyReference.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-1(array-sum of 5no)\Prg23-1(array-sum of 5no)\obj\Debug\Prg23-1(array-sum of 5no).csproj.SuggestedBindingRedirects.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-1(array-sum of 5no)\Prg23-1(array-sum of 5no)\obj\Debug\Prg23_1_array_sum_of_5no_.Form1.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-1(array-sum of 5no)\Prg23-1(array-sum of 5no)\obj\Debug\Prg23_1_array_sum_of_5no_.Properties.Resources.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-1(array-sum of 5no)\Prg23-1(array-sum of 5no)\obj\Debug\Prg23-1(array-sum of 5no).csproj.GenerateResource.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-1(array-sum of 5no)\Prg23-1(array-sum of 5no)\obj\Debug\Prg23-1(array-sum of 5no).csproj.CoreCompileInputs.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-1(array-sum of 5no)\Prg23-1(array-sum of 5no)\obj\Debug\Prg23-1(array-sum of 5no).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-1(array-sum of 5no)\Prg23-1(array-sum of 5no)\obj\Debug\Prg23-1(array-sum of 5no).pdb
