@@ -1,0 +1,11 @@
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-4(user define function)\Prg23-4(user define function)\bin\Debug\Prg23-4(user define function).exe.config
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-4(user define function)\Prg23-4(user define function)\bin\Debug\Prg23-4(user define function).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-4(user define function)\Prg23-4(user define function)\bin\Debug\Prg23-4(user define function).pdb
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-4(user define function)\Prg23-4(user define function)\obj\Debug\Prg23-4(user define function).csproj.AssemblyReference.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-4(user define function)\Prg23-4(user define function)\obj\Debug\Prg23-4(user define function).csproj.SuggestedBindingRedirects.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-4(user define function)\Prg23-4(user define function)\obj\Debug\Prg23_4_user_define_function_.Form1.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-4(user define function)\Prg23-4(user define function)\obj\Debug\Prg23_4_user_define_function_.Properties.Resources.resources
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-4(user define function)\Prg23-4(user define function)\obj\Debug\Prg23-4(user define function).csproj.GenerateResource.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-4(user define function)\Prg23-4(user define function)\obj\Debug\Prg23-4(user define function).csproj.CoreCompileInputs.cache
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-4(user define function)\Prg23-4(user define function)\obj\Debug\Prg23-4(user define function).exe
+C:\Users\RAWA\Desktop\dotnet\Practice prg\class practice-23aug\Prg23-4(user define function)\Prg23-4(user define function)\obj\Debug\Prg23-4(user define function).pdb
